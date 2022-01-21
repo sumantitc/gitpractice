@@ -1,0 +1,2 @@
+config --global user.email "sumantcse1999@gmail.com"
+config -- global user.name "xyz"
