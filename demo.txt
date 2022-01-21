@@ -12,3 +12,7 @@ git commit
     -> the command used to save the projects currently staged changes
 git log
     -> command shows the detailed history of all commits
+
+
+git log --oneline
+    -> command shows the one line history of all commits
