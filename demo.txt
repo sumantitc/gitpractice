@@ -1,2 +1,14 @@
 config --global user.email "sumantcse1999@gmail.com"
 config -- global user.name "xyz"
+
+
+git init
+    -> initializes an empty git repository.
+git add
+    -> used to add files to the staging area.
+git status
+    -> used to find the state of the current working directory and staging area.
+git commit
+    -> the command used to save the projects currently staged changes
+git log
+    -> command shows the detailed history of all commits
